@@ -1,0 +1,15 @@
+{
+  "subTitle": {
+    "main": "About",
+    "span": "Glossie"
+  },
+  "title": {
+    "main": "When You Look Good",
+    "span": "You Feel Good"
+  },
+  "description": "We provide the best beauty care for you",
+  "btn": {
+    "content": "Book now",
+    "color": "white"
+  }
+}

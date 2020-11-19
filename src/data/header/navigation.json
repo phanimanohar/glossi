@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Home",
+    "to": "#",
+    "subMenu": [
+      { "title": "Beauty Salon", "to": "#" },
+      { "title": "Makeup Salon", "to": "#" },
+      { "title": "Natural Shop", "to": "#" },
+      { "title": "Spa Shop", "to": "#" },
+      { "title": "Mask Shop", "to": "#" },
+      { "title": "Skincare Shop", "to": "#" }
+    ]
+  },
+  { "title": "Offers", "to": "#" },
+  { "title": "About", "to": "#" },
+  {
+    "title": "Services",
+    "to": "#",
+
+    "subMenu": [
+      { "title": "Men", "to": "#" },
+      { "title": "Women", "to": "#" },
+      {
+        "title": "Kids",
+        "to": "#"
+      }
+     
+      
+    ]
+  },
+  { "title": "Blog", "to": "#" },
+  { "title": "Contact", "to": "#" }
+]

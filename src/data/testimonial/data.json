@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/testimonial/TestimonialOne/1.png",
+    "name": "Manohar 1",
+    "city": "Rajahmundry",
+    "review": "This is amazing!",
+    "rate": 4
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/testimonial/TestimonialOne/2.png",
+    "name": "Manohar 2",
+    "city": "Rajahmundry",
+    "review": "This is amazing!",
+    "rate": 4
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/testimonial/TestimonialOne/3.png",
+    "name": "Manohar 3",
+    "city": "Rajahmundry",
+    "review": "This is amazing!",
+    "rate": 4
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/testimonial/TestimonialOne/4.png",
+    "name": "Manohar 4 ",
+    "city": "Rajahmundry",
+    "review": "This is amazing!",
+    "rate": 4
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/testimonial/TestimonialOne/5.png",
+    "name": "Manohar 5",
+    "city": "Rajahmundry",
+    "review": "This is amazing!",
+    "rate": 4
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/testimonial/TestimonialOne/6.png",
+    "name": "Manohar 6",
+    "city": "Rajahmundry",
+    "review": "This is amazing!",
+    "rate": 4
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/testimonial/TestimonialOne/7.png",
+    "name": "Manohar 7",
+    "city": "Rajahmundry",
+    "review": "This is amazing!",
+    "rate": 4
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/testimonial/TestimonialOne/8.png",
+    "name": "Manohar 8",
+    "city": "Rajahmundry",
+    "review": "This is amazing!",
+    "rate": 4
+  }
+]

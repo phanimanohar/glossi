@@ -1,0 +1,21 @@
+{
+  "accountLinks": [
+    { "name": "My account", "to": "#" },
+    { "name": "Wishlist", "to": "#" },
+    { "name": "Cart", "to": "#" },
+    { "name": "Shop", "to": "#" },
+    { "name": "Checkout", "to": "#" }
+  ],
+  "informationLinks": [
+    { "name": "About us", "to": "#" },
+    { "name": "Careers", "to": "#" },
+    { "name": "Delivery Information", "to": "#" },
+    { "name": "Privacy Policy", "to": "#" },
+    { "name": "Terms & Condition", "to": "#" }
+  ],
+  "creditLinks": [
+    { "name": "Privacy Policy", "to": "#" },
+    { "name": "Terms & Condition", "to": "#" },
+    { "name": "Site map", "to": "#" }
+  ]
+}

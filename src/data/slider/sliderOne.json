@@ -1,0 +1,44 @@
+[
+  {
+    "title": { "main": "Saloon services" },
+    "subTitle": "bringing you",
+    "image": "/assets/images/slider/SliderOne/1.png",
+    "btn": {
+      "content": "Book now",
+      "color": "red"
+    },
+    "animationClass": {
+      "title": "slider-one-title",
+      "subtitle": "slider-one-subtitle",
+      "button": "slider-one-button"
+    }
+  },
+  {
+    "title": { "main": "Wedding services" },
+    "subTitle": "Choose our",
+    "image": "/assets/images/slider/SliderOne/2.png",
+    "btn": {
+      "content": "Book now",
+      "color": "red"
+    },
+    "animationClass": {
+      "title": "slider-one-title",
+      "subtitle": "slider-one-subtitle",
+      "button": "slider-one-button"
+    }
+  },
+  {
+    "title": { "main": "Beauty salon" },
+    "subTitle": "We make best makeup",
+    "image": "/assets/images/slider/SliderOne/3.png",
+    "btn": {
+      "content": "Book now",
+      "color": "red"
+    },
+    "animationClass": {
+      "title": "slider-one-title",
+      "subtitle": "slider-one-subtitle",
+      "button": "slider-one-button"
+    }
+  }
+]
